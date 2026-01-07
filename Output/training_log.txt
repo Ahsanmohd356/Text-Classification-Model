@@ -1,0 +1,3 @@
+Epoch 1 | Train Accuracy: 0.4200800061225891 | Validation Accuracy: 0.5156999826431274
+Epoch 2 | Train Accuracy: 0.5222200155258179 | Validation Accuracy: 0.582099974155426
+Epoch 3 | Train Accuracy: 0.5613399744033813 | Validation Accuracy: 0.5989999771118164

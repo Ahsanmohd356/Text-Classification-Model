@@ -1,0 +1,9 @@
+Dataset Name: CIFAR-10
+Source: TensorFlow Keras Built-in Dataset
+Total Images: 60,000
+Image Size: 32x32 RGB
+Classes: 10
+
+Note:
+The dataset is loaded directly using TensorFlow API
+and does not require manual downloading.
